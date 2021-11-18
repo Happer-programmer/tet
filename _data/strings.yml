@@ -1,0 +1,16 @@
+app:
+  screenshots: Screenshots
+  description: Description
+  featured: Featured in
+
+footer:
+  copyright: Made by Xapper
+  links:
+    - title: ,
+      url: https://abdul-jaleel-al-fahim-school.web.app
+      target: _blank
+    - title: ,
+      url: https://abdul-jaleel-al-fahim-school.web.app
+      target: _blank
+    - title: Privacy
+      url: /privacy
